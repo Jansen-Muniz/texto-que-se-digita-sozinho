@@ -1,0 +1,10 @@
+body {
+  background-color: black;
+}
+
+div {
+  color: white;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 200px;
+}
